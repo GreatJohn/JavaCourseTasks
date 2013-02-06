@@ -1,6 +1,6 @@
-package com.jcourse.bogdanov.TestTask2;
+package com.jcourse.bogdanov.testtasks;
 
-import  com.jcourse.bogdanov.Task2.*;
+import  com.jcourse.bogdanov.task2.*;
 
 import java.io.IOException;
 
